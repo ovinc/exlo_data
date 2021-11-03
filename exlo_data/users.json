@@ -1,0 +1,17 @@
+{
+    "Cam": {
+        "last name": "Dupont",
+        "first name": "Camille",
+        "status": "Full Professor"
+    },
+    "Martin": {
+        "last name": "Fisher",
+        "first name": "Martin",
+        "status": "Postdoc"
+    },
+    "Ju": {
+        "last name": "Powneau",
+        "first name": "Juliette",
+        "status": "PhD student"
+    }
+}

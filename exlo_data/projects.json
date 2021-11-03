@@ -1,0 +1,14 @@
+{
+    "Dupont-ERC-2020": {
+        "Coordinator": "Camille Dupont",
+        "PI": "Camille Dupont",
+        "start": "2021-07-01",
+        "end": "2025-06-30"
+    },
+    "ANR-MoonLanding": {
+        "Coordinator": "Stanley Kubrick",
+        "PI": "Camille Dupont",
+        "start": "1967-01-01",
+        "end": "1971-08-31"
+    }
+}

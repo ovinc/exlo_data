@@ -1,0 +1,23 @@
+{
+    "White Source": {
+        "description": "Halogen white-light source",
+        "supplier": "Optics, INC",
+        "brand": "Better Light Sources",
+        "serial": "O9899HJKJH",
+        "ID": "lab-0302955"
+    },
+    "Laser": {
+        "description": "100 mW He-Ne laser",
+        "supplier": "Optics, INC",
+        "brand": "Better Light Sources",
+        "serial": "T528-02358",
+        "ID": "lab-0302410"
+    },
+    "Microscope": {
+        "description": "Inverted microscope",
+        "supplier": "Optics, INC",
+        "brand": "MicroNanoOptics",
+        "serial": "OPP 9877 13233",
+        "ID": "lab-03005333"
+    }
+}

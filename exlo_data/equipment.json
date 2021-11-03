@@ -1,0 +1,10 @@
+{
+    "Optic1": {
+        "description": "Optical Stage n°1",
+        "components": ["Laser", "Microscope"]
+    },
+    "Optic2": {
+        "description": "Optical Stage n°2",
+        "components": ["White Source", "Microscope"]
+    }
+}
