@@ -12,6 +12,13 @@ cd exlo_data
 pip install -e .
 ```
 
+Testing
+=======
+With `pytest`:
+```bash
+pytest
+```
+
 Author
 ======
 
