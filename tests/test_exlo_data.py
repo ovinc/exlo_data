@@ -15,4 +15,4 @@ def test_exlo():
     assert (basefolder / 'config.json').exists()
     assert (basefolder / 'users.json').exists()
     assert (basefolder / 'projects.json').exists()
-    assert (basefolder / 'equipment.json').exists()
+    assert (basefolder / 'setups.json').exists()

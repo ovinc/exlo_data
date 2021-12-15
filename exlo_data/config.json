@@ -2,7 +2,7 @@
     "log file": "logs.json",
     "datetime format": "%Y-%m-%d %H:%M UTC%z",
     "default user": "Ju",
-    "default equipment": "Optic1",
+    "default setup": "Optic1",
     "default project": "Dupont-ERC-2020",
     "default start": "9:00",
     "default end": "18:00",
